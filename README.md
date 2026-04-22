@@ -74,7 +74,7 @@ Reading temperature using an NTC thermistor and converting analog values into me
 
 ---
 
-## 🧠 Skills
+##  Skills
 
 - Arduino Programming
 - Embedded Systems Fundamentals
