@@ -18,11 +18,19 @@ A smart power control system using PMOS, button, and PIR sensor.
 
 ---
 
-### Servo & Stepper Motor Control
+### Dual DC Motor Control with L293D & Arduino
 
-Controlling multiple servo motors and stepper motors.
+Control of DC motors using Arduino.
 
 🔗 https://github.com/hudamajrashi/DC-Motor-Control-with-L293D-Arduino
+
+---
+
+### Servo & Stepper Motor Control (Arduino + ESP32)
+
+Controlling stepper & multiple servo motors and synchronization.
+
+🔗 https://github.com/hudamajrashi/servo-and-stepper-task
 
 ---
 
