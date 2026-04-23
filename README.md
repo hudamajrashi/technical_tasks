@@ -74,6 +74,16 @@ Reading temperature using an NTC thermistor and converting analog values into me
 
 ---
 
+### ESP32 ↔ Arduino UART Communication (LED Control)
+
+This task demonstrates UART communication between an ESP32 (transmitter) and an Arduino Uno (receiver).
+The ESP32 sends simple commands ("ON"/"OFF") to control an LED connected to the Arduino.
+
+🔗 https://github.com/hudamajrashi/ESP32_to_Arduino_Communication
+
+
+---
+
 ##  Skills
 
 - Arduino Programming
