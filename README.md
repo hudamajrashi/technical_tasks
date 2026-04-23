@@ -84,10 +84,10 @@ The ESP32 sends simple commands ("ON"/"OFF") to control an LED connected to the 
 
 ---
 
-### ESP32 ↔ Arduino UART Communication (LED Control)
+### ESP32 Stepper Motor Web Control
 
-This task demonstrates UART communication between an ESP32 (transmitter) and an Arduino Uno (receiver).
-The ESP32 sends simple commands ("ON"/"OFF") to control an LED connected to the Arduino.
+This task demonstrates controlling a stepper motor using an ESP32 through a web interface.
+The ESP32 creates a WiFi Access Point and hosts a webpage with control buttons for motor movement.
 
 🔗 https://github.com/hudamajrashi/ESP32-Stepper-Motor-Web-Control
 
